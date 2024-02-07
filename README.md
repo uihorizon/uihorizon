@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @uihorizon</h1>
+<h1 align="center">Hi 👋, I'm Horizon</h1>
 <h3 align="center">A knowledgeable but inexperienced developer</h3>
 
 - 🌱 I’m currently learning **DShapPlus**
