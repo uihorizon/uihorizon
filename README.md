@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Horizon</h1>
-<h3 align="center">A knowledgeable but inexperienced developer</h3>
+<h1 align="center">Hi 👋, I'm Ufuk</h1>
+<h3 align="center">A knowledgeable developer</h3>
 
-- 🌱 I’m currently learning **DShapPlus**
+- 🌱 I’m currently learning **DShapPlus (Discod API library), Rust (language) **
 
-- 💬 Ask me about **Python, C#**
+- 💬 Ask me about **Python, C#, OOP, .NET Development**
 
 - ⚡ Fun fact **I don't share most of my code publicly because I don't think it's worth sharing.**
 
