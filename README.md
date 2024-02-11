@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ufuk</h1>
 <h3 align="center">A knowledgeable developer</h3>
 
-- 🌱 I’m currently learning **DShapPlus (Discod API library), Rust (language) **
+- 🌱 I’m currently learning **DShapPlus (Discod API library), Rust (language)**
 
 - 💬 Ask me about **Python, C#, OOP, .NET Development**
 
